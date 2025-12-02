@@ -1,13 +1,13 @@
 local allowedPlayers = {
     ["VenomByte200780"] = true,
     ["ositowito23"] = true,
-    ["ВАШ_НИК3"] = true,
-    ["ВАШ_НИК4"] = true,
-    ["ВАШ_НИК5"] = true,
-    ["ВАШ_НИК6"] = true,
-    ["ВАШ_НИК7"] = true,
-    ["ВАШ_НИК8"] = true,
-    ["ВАШ_НИК9"] = true,
+    ["warmthlsweakness"] = true,
+    ["cheatersreturns"] = true,
+    ["dlmented"] = true,
+    ["Sec54"] = true,
+    ["SkibidiDestroyAlesha"] = true,
+    ["Wauclet"] = true,
+    ["Mavengirl123"] = true,
     ["ВАШ_НИК10"] = true
 }
 
