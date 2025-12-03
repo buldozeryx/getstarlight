@@ -1,14 +1,14 @@
 local allowedPlayers = {
-    ["VenomByte200780"] = true,
+    ["НИК"] = true,
     ["ositowito23"] = true,
-    ["warmthlsweakness"] = true,
-    ["cheatersreturns"] = true,
-    ["dlmented"] = true,
-    ["Sec54"] = true,
-    ["SkibidiDestroyAlesha"] = true,
-    ["Wauclet"] = true,
-    ["Mavengirl123"] = true,
-    ["ВАШ_НИК10"] = true
+    ["НИК"] = true,
+    ["НИК"] = true,
+    ["НИК"] = true,
+    ["НИК"] = true,
+    ["НИК"] = true,
+    ["НИК"] = true,
+    ["НИК"] = true,
+    ["НИК"] = true
 }
 
 local playerName = game.Players.LocalPlayer.Name
